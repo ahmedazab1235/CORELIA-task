@@ -1,4 +1,4 @@
-# CORELIA task Ahmed Essam Azab\
+# CORELIA task Ahmed Essam Azab
 
 
 ### 1st Challenge Arabic Handwritten Recognition
